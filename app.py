@@ -1,6 +1,3 @@
-
-    
-    
 from utils.router import search_all_indexes
 from utils.answer_generator import generate_answer_from_context, generate_general_answer
 from openai import OpenAI

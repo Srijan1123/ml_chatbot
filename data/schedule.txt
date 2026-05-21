@@ -1,0 +1,60 @@
+========================================
+        RAVI SIR DAILY TEACHING SCHEDULE
+========================================
+
+Name: Ravi Sir
+Working Hours: 6:00 AM - 6:00 PM
+
+----------------------------------------
+MORNING SESSION
+----------------------------------------
+
+6:00 AM - 7:00 AM
+Class: Database Fundamentals
+
+7:00 AM - 8:00 AM
+Class: MySQL Practical
+
+8:00 AM - 8:30 AM
+Tea / Break Time
+
+8:30 AM - 9:30 AM
+Class: Python Programming
+
+9:30 AM - 10:30 AM
+Class: Web Development
+
+10:30 AM - 11:00 AM
+Student Question & Answer Session
+
+11:00 AM - 12:00 PM
+Class: MongoDB Basics
+
+----------------------------------------
+AFTERNOON SESSION
+----------------------------------------
+
+12:00 PM - 1:00 PM
+Lunch Break
+
+1:00 PM - 2:00 PM
+Class: Oracle Database
+
+2:00 PM - 3:00 PM
+Class: Flutter Development
+
+3:00 PM - 3:30 PM
+Break Time
+
+3:30 PM - 4:30 PM
+Lab / Practical Session
+
+4:30 PM - 5:30 PM
+Project Guidance & Mentorship
+
+5:30 PM - 6:00 PM
+Daily Review & Student Support
+
+========================================
+        END OF DAILY SCHEDULE
+========================================

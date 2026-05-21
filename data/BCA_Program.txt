@@ -1,0 +1,53 @@
+# Bachelor of Computer Application (BCA)
+
+## Metadata
+- Program: BCA
+- Institution: Kantipur City College
+- Category: Program Details
+- Tags: BCA, computer application, IT, software development
+
+## Program Overview
+Bachelor of Computer Application (BCA) is an undergraduate program designed for students interested in computer science, software development, and information technology.
+
+The program combines theoretical computer science concepts with practical software development skills.
+
+## Core Learning Areas
+- Programming Languages
+- Database Management Systems
+- Web Development
+- Software Engineering
+- Networking
+- Operating Systems
+- Data Structures and Algorithms
+
+## Skills Developed
+Students learn:
+- Coding and programming
+- Application development
+- Problem-solving
+- Database handling
+- System analysis
+- Team collaboration
+
+## Career Opportunities
+Graduates can work as:
+- Software Developer
+- Web Developer
+- Database Administrator
+- IT Support Specialist
+- System Analyst
+- QA Tester
+
+## Higher Education Path
+Possible future studies:
+- MCA
+- MIT
+- MBA in IT
+- Professional IT certifications
+
+## Learning Approach
+- Practical labs
+- Project-based assignments
+- Presentations
+- Technical workshops
+- Internship exposure

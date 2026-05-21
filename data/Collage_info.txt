@@ -1,0 +1,704 @@
+TITLE: Kantipur City College (KCC) Undergraduate Programs Full Knowledge Base
+SOURCE: https://kcc.edu.np/academics/undergraduate/
+INSTITUTION: Kantipur City College (KCC)
+LOCATION: Putalisadak, Kathmandu, Nepal
+CATEGORY: Undergraduate Programs and Academic Information
+TAGS: KCC, Undergraduate, BCA, BIT, BBA, BE Computer, Admission, Scholarships, Course Structure
+
+====================================================
+1. COLLEGE OVERVIEW
+====================================================
+
+Kantipur City College (KCC) is a higher education institution located in Putalisadak, Kathmandu, Nepal. The college focuses on producing skilled human resources capable of meeting modern academic and industrial challenges.
+
+KCC emphasizes:
+- Practical-based learning
+- Industry-oriented education
+- Professional skill development
+- Research and innovation
+- Student-centered teaching
+- Academic excellence
+
+The institution offers undergraduate and postgraduate programs in:
+- Information Technology
+- Engineering
+- Business Administration
+- Computer Applications
+- Artificial Intelligence
+- Management
+
+KCC is known for:
+- Experienced faculty members
+- Practical learning environment
+- Workshops and seminars
+- Internship opportunities
+- Career-oriented education
+- Industry exposure
+
+====================================================
+2. UNDERGRADUATE PROGRAMS AVAILABLE
+====================================================
+
+The undergraduate programs available at KCC include:
+
+1. Bachelor of Computer Application and Information Technology (BCA-IT)
+2. Bachelor of Information Technology (BIT)
+3. Bachelor of Business Administration (BBA)
+4. Bachelor of Computer Engineering (BE Computer)
+5. Bachelor of Civil Engineering
+6. Bachelor of Technology in Artificial Intelligence (B.Tech AI)
+
+Program Duration:
+- Most undergraduate programs are 4 years long
+- Programs are divided into 8 semesters
+
+====================================================
+3. BACHELOR OF COMPUTER APPLICATION AND INFORMATION TECHNOLOGY (BCA-IT)
+====================================================
+
+PROGRAM OVERVIEW
+
+The Bachelor in Computer Application and Information Technology (BCA-IT) is a modern undergraduate program focused on:
+- Software Development
+- Information Technology Management
+- Networking
+- Cybersecurity
+- Cloud Computing
+- Data Analytics
+
+PROGRAM OBJECTIVES
+- Build strong foundations in programming and databases
+- Develop problem-solving abilities
+- Prepare students for software and IT industries
+- Promote innovation and entrepreneurship
+- Train students in cloud systems and cybersecurity
+
+CAREER OPPORTUNITIES
+Graduates can work as:
+- Software Developer
+- Software Engineer
+- Web Developer
+- Mobile App Developer
+- System Administrator
+- Network Security Analyst
+- Database Administrator
+- DevOps Engineer
+- Cloud Solutions Architect
+- Cybersecurity Analyst
+- Data Analyst
+- IT Support Specialist
+
+SPECIAL FEATURES
+- Industry Apprenticeship
+- IT workshops and seminars
+- Software development projects
+- Networking specialization
+- AI specialization
+- Practical lab-based learning
+- Research opportunities
+
+====================================================
+BCA-IT COURSE STRUCTURE
+====================================================
+
+----------------------------
+YEAR I – SEMESTER I
+----------------------------
+
+Core Courses:
+- Mathematics I
+- Computer System Concept
+- Computer Programming in C
+- Digital Logic
+- Computer Project I
+
+Humanities & Management:
+- Technical English
+
+----------------------------
+YEAR I – SEMESTER II
+----------------------------
+
+Core Courses:
+- Mathematics II
+- Microprocessor and Assembly Language
+- Object-Oriented Programming
+- Computer Project II
+
+Humanities & Management:
+- Modern Business Practices
+- Sociology Ethics and Emotional Intelligence
+
+----------------------------
+YEAR II – SEMESTER III
+----------------------------
+
+Core Courses:
+- Computer Architecture
+- Data Structure and Algorithm
+- System Analysis and Design
+- User Interface Design
+- Computer Project III
+
+Humanities & Management:
+- Financial Accounting
+
+----------------------------
+YEAR II – SEMESTER IV
+----------------------------
+
+Core Courses:
+- Numerical Methods
+- Operating System
+- Computer Network
+- Database Management System
+- Computer Project IV
+
+Humanities & Management:
+- Technology and Operational Management
+
+----------------------------
+YEAR III – SEMESTER V
+----------------------------
+
+Core Courses:
+- Probability and Statistics
+- Management Information System
+- Object-Oriented Analysis and Design
+- Web Technology
+- Computer Graphics
+- Computer Project V
+
+----------------------------
+YEAR III – SEMESTER VI
+----------------------------
+
+Core Courses:
+- Research Methodology
+- Software Engineering
+- Cyber Security
+- Advance Object-Oriented Programming
+- Artificial Intelligence
+- Computer Project VI
+
+----------------------------
+YEAR IV – SEMESTER VII
+----------------------------
+
+Core Courses:
+- IT in Banking
+- Specialization I
+- Specialization II
+- Specialization III
+- Internship
+
+SPECIALIZATION AREAS
+
+1. Information System Management
+- Entrepreneurship and Supply Chain Management
+- Computer-Based Financial Management
+- Data Warehouse and Data Mining
+
+2. Networking and Cloud Computing
+- Cloud Computing and Big Data
+- Network System Administration
+- Remote Sensing and GIS
+
+3. Data Commerce and Business Analytics
+- Digital Commerce
+- Digital and Cloud Governance
+- Multimedia and Application
+
+----------------------------
+YEAR IV – SEMESTER VIII
+----------------------------
+
+Core Courses:
+- Machine Learning with Python
+- Specialization IV
+- Specialization V
+- Specialization VI
+- Apprentice Project
+
+SPECIALIZATION SUBJECTS
+
+1. Information System Management
+- Macro and Micro Economics
+- Fundamentals of Marketing and Business Strategy
+- Information Security
+
+2. Networking and Cloud Computing
+- Dot Net Programming
+- Wireless Network and Mobile Computing
+- Internet of Things
+
+3. Data Commerce and Business Analytics
+- Big Data
+- Database Programming
+- Business Analytics
+
+====================================================
+4. BACHELOR OF BUSINESS ADMINISTRATION (BBA)
+====================================================
+
+PROGRAM OVERVIEW
+
+The Bachelor of Business Administration (BBA) program at KCC aims to prepare students for management and business careers through practical and professional education.
+
+The program focuses on:
+- Leadership development
+- Management skills
+- Business communication
+- Entrepreneurship
+- Finance and marketing
+- Professional networking
+
+PROGRAM FEATURES
+- 4-year full-time program
+- 120 credit hours
+- Industry-focused learning
+- Internship opportunities
+- Soft skill development
+- Career counseling
+
+NON-CREDIT COURSES
+- Personality Development
+- Banking and Insurance Training
+- SPSS Training
+- Tally and FACT Training
+- Business Correspondence Writing
+- Business Development Planning
+- Soft Skill Training
+
+CAREER OPPORTUNITIES
+Graduates can become:
+- Business Executive
+- Banker
+- Marketing Officer
+- HR Manager
+- Accountant
+- Financial Analyst
+- Entrepreneur
+- Corporate Officer
+
+====================================================
+BBA COURSE STRUCTURE
+====================================================
+
+----------------------------
+FIRST SEMESTER
+----------------------------
+
+- English I
+- Microeconomics
+- Business Mathematics
+- Financial Accounting and Analysis
+- Fundamentals of Management
+
+----------------------------
+SECOND SEMESTER
+----------------------------
+
+- English II
+- Macroeconomics
+- Statistics for Business Decisions
+- Cost and Management Accounting
+- Introduction to Marketing
+
+----------------------------
+THIRD SEMESTER
+----------------------------
+
+- Nepalese Business Environment I
+- Quantitative Techniques for Management
+- Human Resource Management
+- IT Tools for Business
+- Legal Aspect of Business
+
+----------------------------
+FOURTH SEMESTER
+----------------------------
+
+- Nepalese Business Environment II
+- Production Management
+- Financial Management
+- Introduction to Spreadsheets and Data Visualization
+- Taxation and Auditing
+
+----------------------------
+FIFTH SEMESTER
+----------------------------
+
+- Project Management
+- Banking and Insurance
+- Entrepreneurship
+- Organizational Behavior and Business Ethics
+- Database Management
+
+----------------------------
+SIXTH SEMESTER
+----------------------------
+
+- Total Quality Management
+- Research Methodology and Report Writing
+- Corporate Governance
+- Social Media Marketing
+- Management Information System
+
+----------------------------
+SEVENTH SEMESTER
+----------------------------
+
+- Supply Chain Management
+- Digital Business
+- International Business
+- Internship
+- Specialization I
+- Specialization II
+
+----------------------------
+EIGHTH SEMESTER
+----------------------------
+
+- Strategic Management
+- Blockchain AI in Business
+- Specialization III
+- Specialization IV
+- Specialization V
+
+====================================================
+BBA SPECIALIZATION AREAS
+====================================================
+
+MARKETING
+- Consumer Behavior
+- Advertising and Sales Promotion
+- Sales and Distribution Management
+- Marketing of Services
+- Brand Management
+- Retail Management
+
+FINANCE
+- Capital Structures
+- Working Capital Management
+- Financial Institutions and Market
+- Financial Derivatives and Risk Management
+- Security Analysis and Portfolio Management
+
+HUMAN RESOURCE MANAGEMENT
+- Designing and Managing HR System
+- Training and Development
+- Organization Development
+- Leadership and Team Building
+- Industrial Relations
+- Conflict Management and Negotiation
+
+ACCOUNTING
+- Advanced Cost Accounting
+- Advanced Management Accounting
+- Taxation Practices in Nepal
+- Auditing
+- Budgeting
+- Company Accounts
+
+INTERNATIONAL BUSINESS
+- International Marketing
+- International Finance
+- Cross-Cultural Negotiations
+- Export Promotion Management
+- Forex Management
+- Foreign Language
+
+====================================================
+5. BACHELOR OF COMPUTER ENGINEERING
+====================================================
+
+PROGRAM OVERVIEW
+
+The Bachelor of Computer Engineering integrates:
+- Computer Science
+- Electronic Engineering
+- Software Systems
+- Hardware Systems
+
+The program provides:
+- Strong theoretical knowledge
+- Laboratory exposure
+- Real-world problem-solving skills
+- Engineering design experience
+
+PROGRAM OBJECTIVES
+- Study hardware and software systems
+- Design computer-based solutions
+- Build research skills
+- Develop entrepreneurship skills
+- Improve communication and presentation abilities
+
+CAREER OPPORTUNITIES
+Graduates can work as:
+- System Analyst
+- Programmer
+- Product Manager
+- System Administrator
+- Database Administrator
+- Web Developer
+- Hardware Engineer
+- Network Engineer
+- Research Assistant
+
+====================================================
+BE COMPUTER COURSE STRUCTURE
+====================================================
+
+SEMESTER I
+- Engineering Math-I
+- Elements and Devices of Computing Technology
+- Physics
+- Engineering Drawing
+- Communicative English
+- Computer Programming
+- Workshop Technology
+
+SEMESTER II
+- Engineering Math-II
+- Chemistry
+- Applied Mechanics
+- Electrical Engineering
+- Object Oriented Programming
+- Digital Logic
+
+SEMESTER III
+- Engineering Math-III
+- Information System Design
+- Electronic Devices and Circuit
+- Data Structure and Algorithm
+- Computer Organization and Design
+- Project
+
+SEMESTER IV
+- Microprocessor
+- Database Management System
+- Free and Open Source Programs
+- Discrete Mathematics
+- Communication System
+- Applied Sociology
+
+SEMESTER V
+- Numerical Method
+- Algorithm Analysis and Design
+- Computer Graphics
+- Operating System
+- Research Methodology
+- Project
+
+SEMESTER VI
+- Project and Organization Management
+- Theory of Computation
+- Multimedia Technology
+- Computer Network
+- Probability and Statistics
+- Engineering Economics
+
+SEMESTER VII
+- Entrepreneurship
+- Artificial Intelligence
+- Software Engineering
+- Simulation and Modeling
+- Elective-I
+- Project
+
+SEMESTER VIII
+- Data Mining and Data Warehousing
+- Engineering Professional Practice
+- Cryptography
+- Advance Computer Architecture
+- Elective-II
+- Project
+
+====================================================
+6. BACHELOR OF INFORMATION TECHNOLOGY (BIT)
+====================================================
+
+PROGRAM OVERVIEW
+
+The Bachelor of Information Technology (BIT) is a four-year undergraduate program designed to provide:
+- Programming skills
+- Software development knowledge
+- Database administration
+- Networking concepts
+- Information systems understanding
+
+The curriculum emphasizes:
+- Practical learning
+- Software design
+- System analysis
+- Computer networking
+- Data communication
+
+CAREER OPPORTUNITIES
+- Software Developer
+- IT Officer
+- Web Developer
+- Database Administrator
+- System Analyst
+- Network Administrator
+
+====================================================
+7. ADMISSION REQUIREMENTS
+====================================================
+
+GENERAL REQUIREMENTS
+Applicants must:
+- Complete +2 or equivalent education
+- Submit required documents
+- Pass university entrance examinations
+- Attend personal interviews if required
+
+REQUIRED DOCUMENTS
+- SEE Character Certificate
+- SEE Marksheet
+- +2 Transcript
+- +2 Character Certificate
+- Citizenship Certificate
+- Passport-size photographs
+- Migration Certificate (if applicable)
+
+====================================================
+PROGRAM ELIGIBILITY
+====================================================
+
+BCA
+- Minimum D grade in each subject in +2
+- Aggregate GPA of at least 2.0
+- OR minimum 45% in Intermediate Level
+
+BIT
+- Minimum D grade in +2
+- Aggregate GPA of 2.0
+- Mathematics subject required
+
+BBA
+- Aggregate D grade in +2
+- OR minimum 40% in Intermediate Level
+
+BE Computer
+- Minimum C grade in Math, Physics, Chemistry, and English
+- OR minimum 45% in Intermediate/Diploma
+
+====================================================
+8. SCHOLARSHIPS
+====================================================
+
+KCC MERIT SCHOLARSHIP
+Scholarships based on:
+- Academic performance
+- Previous achievements
+
+KALPA SCHOLARSHIP
+- Financial assistance for selected students
+
+UNIVERSITY SCHOLARSHIP
+
+MERIT SCHOLARSHIP
+- Top 5% entrance exam students receive up to 80% scholarship
+
+RESERVATION SCHOLARSHIP
+- 5% students receive 100% scholarship based on university norms
+
+SCHOLARSHIP EVALUATION FACTORS
+- Entrance exam marks
+- SEE marks
+- +2 marks
+- Government school background
+- Female students
+- Marginalized communities
+- Remote area students
+
+====================================================
+9. FACILITIES AND LEARNING ENVIRONMENT
+====================================================
+
+KCC provides:
+- Computer laboratories
+- Internet facilities
+- Multimedia classrooms
+- Workshops
+- Research units
+- Software development centers
+- Industry interaction programs
+
+Learning methods include:
+- Practical labs
+- Group projects
+- Presentations
+- Internships
+- Seminars
+- Workshops
+
+====================================================
+10. FACULTY MEMBERS (BCA-IT)
+====================================================
+
+- Mr. Raju Kattel
+- Mr. Saroj Pandey
+- Mr. Ashim KC
+- Mr. Ram Prasad Niroula
+- Mr. Kiran Khanal
+- Mr. Bikash Neupane
+- Mr. Ramesh Parajuli
+- Mr. Nishan Lamichane
+
+Department Administrator:
+- Mr. Binod Khatiwada
+
+====================================================
+11. CONTACT INFORMATION
+====================================================
+
+Institution:
+Kantipur City College (KCC)
+
+Address:
+Putalisadak, Kathmandu, Nepal
+
+Phone:
++977-1-4530239
+4537093
+
+Admission Contact:
+9860352875
+9862068688
+
+Email:
+admin@kcc.edu.np
+
+Website:
+https://kcc.edu.np/
+
+====================================================
+12. IMPORTANT NOTES
+====================================================
+
+- Students must appear in the Purbanchal University entrance exam
+- Interviews may be required
+- Internship opportunities are available
+- Programs are industry-oriented
+- Curriculum includes practical and project-based learning
+- Semester system is followed
+- Programs focus on professional and career development
+
+====================================================
+13. TESTIMONIAL HIGHLIGHTS
+====================================================
+
+Students and graduates have highlighted:
+- Quality faculty
+- Practical learning
+- Career growth opportunities
+- Supportive learning environment
+- Technical exposure
+- Skill development
+
+====================================================
+END OF DOCUMENT
+====================================================

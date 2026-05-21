@@ -1,0 +1,28 @@
+# Academic Structure
+
+## Metadata
+- Institution: Kantipur City College
+- Category: Academic Structure
+- Tags: curriculum, semester, academics, learning
+
+## Curriculum Structure
+Programs generally include:
+- Core subjects
+- Elective subjects
+- Practical components
+- Assignments
+- Presentations
+- Projects
+
+## Learning Components
+- Theory classes
+- Practical labs
+- Internal assessments
+- Final examinations
+- Group projects
+
+## Educational Goals
+- Professional readiness
+- Technical competency
+- Critical thinking
+- Communication skills

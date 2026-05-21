@@ -1,0 +1,26 @@
+# Frequently Asked Questions (FAQs)
+
+## Metadata
+- Institution: Kantipur City College
+- Category: FAQ
+- Tags: faq, questions, admissions, academics
+
+## FAQ 1
+### What undergraduate programs are available?
+The college offers programs including BCA, BBS, and BASW.
+
+## FAQ 2
+### Is practical learning included?
+Yes, programs emphasize practical and project-based learning.
+
+## FAQ 3
+### Can students pursue IT careers after BCA?
+Yes, BCA graduates can pursue software development, web development, database administration, and related IT careers.
+
+## FAQ 4
+### Are extracurricular activities available?
+Yes, students can participate in workshops, seminars, and academic events.
+
+## FAQ 5
+### Is higher education possible after graduation?
+Yes, graduates can pursue postgraduate studies and professional certifications.

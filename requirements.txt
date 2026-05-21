@@ -6,3 +6,13 @@ sentence-transformers
 faiss-cpu
 transformers
 torch
+ollama
+
+#ollama serve
+# & "c:\Users\Acer\Desktop\ml_chatbot\venv\Scripts\python.exe" download_model.py
+# & "c:\Users\Acer\Desktop\ml_chatbot\venv\Scripts\python.exe" indexer.py
+# & "c:\Users\Acer\Desktop\ml_chatbot\venv\Scripts\python.exe" app.py
+
+
+# & "c:\Users\Acer\Desktop\ml_chatbot\venv\Scripts\python.exe" app.py
+

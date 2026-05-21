@@ -1,0 +1,26 @@
+# Facilities and Infrastructure
+
+## Metadata
+- Institution: Kantipur City College
+- Category: Facilities
+- Tags: infrastructure, labs, library, campus
+
+## Academic Facilities
+- Computer laboratories
+- Classrooms
+- Library resources
+- Internet access
+- Multimedia learning support
+
+## Student Support Facilities
+- Academic counseling
+- Student guidance
+- Project support
+- Practical learning environment
+
+## Learning Environment
+The institution provides:
+- Interactive classrooms
+- Technology-supported education
+- Collaborative learning spaces
+- Practical training opportunities

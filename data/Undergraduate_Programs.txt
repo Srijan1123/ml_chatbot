@@ -1,0 +1,35 @@
+# Undergraduate Programs
+
+## Metadata
+- Institution: Kantipur City College
+- Category: Undergraduate Programs
+- Tags: undergraduate, programs, academics, bachelor degrees
+
+## Available Undergraduate Programs
+
+### Bachelor of Computer Application (BCA)
+- Field: Information Technology
+- Focus: Software development, programming, database systems, networking
+
+### Bachelor of Business Studies (BBS)
+- Field: Business and Management
+- Focus: Management, accounting, finance, business operations
+
+### Bachelor in Social Work (BASW)
+- Field: Social Sciences
+- Focus: Community development, social service, counseling
+
+## Program Features
+- Semester-based academic structure
+- Practical and theoretical learning
+- Industry-oriented curriculum
+- Project and presentation activities
+- Professional skill development
+
+## Learning Outcomes
+Students gain:
+- Technical knowledge
+- Communication skills
+- Leadership abilities
+- Professional ethics
+- Career readiness

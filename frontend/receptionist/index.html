@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ANA Live Receptionist</title>
+    <link rel="stylesheet" href="/static/styles.css?v=1" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="boot-screen" id="bootScreen">
+        <div class="boot-copy">
+          <p class="eyebrow">Kantipur City College</p>
+          <h1>ANA Reception</h1>
+          <p class="subcopy">A live front-desk assistant for quick college enquiries.</p>
+        </div>
+        <button class="start-button" id="startButton" type="button">
+          <span>Start</span>
+        </button>
+        <div class="boot-progress" id="bootProgress">
+          <span class="progress-dot"></span>
+          <span id="bootText">Ready when you are</span>
+        </div>
+      </section>
+
+      <section class="desk hidden" id="desk">
+        <header class="desk-top">
+          <div>
+            <p class="eyebrow">ANA</p>
+            <h2>Receptionist</h2>
+          </div>
+          <div class="status-pill" id="statusPill">
+            <span class="status-light"></span>
+            <span id="statusText">Idle</span>
+          </div>
+        </header>
+
+        <section class="avatar-stage" id="avatarStage">
+          <div class="portrait-wrap" id="portraitWrap">
+            <img id="avatarImage" src="/assets/avatar/neutral" alt="ANA receptionist" />
+            <video id="avatarVideo" class="hidden" playsinline></video>
+          </div>
+          <div class="speech-card">
+            <p id="caption">Namaste. How can I help you?</p>
+          </div>
+        </section>
+
+        <section class="control-row" aria-label="Receptionist controls">
+          <button class="icon-button" id="micButton" type="button" aria-pressed="false" title="Microphone">
+            <span class="icon-mic"></span>
+          </button>
+          <button class="icon-button active" id="speakerButton" type="button" aria-pressed="true" title="Speaker">
+            <span class="icon-speaker"></span>
+          </button>
+          <form class="prompt-form" id="promptForm">
+            <input id="promptInput" type="text" autocomplete="off" placeholder="Ask ANA..." />
+            <button class="send-button" type="submit">Send</button>
+          </form>
+        </section>
+
+        <div class="meter" aria-hidden="true">
+          <span id="meterBar"></span>
+        </div>
+      </section>
+    </main>
+
+    <script src="/static/app.js?v=2"></script>
+  </body>
+</html>

@@ -1,7 +1,0 @@
-$env:ANA_STT_DEVICE='cpu'
-$env:ANA_PRELOAD_TTS='0'
-$env:ANA_PRELOAD_STT='0'
-$env:ANA_WAV2LIP_FPS='15'
-$env:ANA_WAV2LIP_BATCH_SIZE='16'
-$env:ANA_FACE_DET_BATCH_SIZE='2'
-venv\Scripts\python.exe -m uvicorn receptionist_app:app --host 127.0.0.1 --port 8020

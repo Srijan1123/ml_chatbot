@@ -1,4 +1,0 @@
-$env:ANA_STT_DEVICE='cpu'
-$env:ANA_PRELOAD_TTS='0'
-$env:ANA_PRELOAD_STT='0'
-venv\Scripts\python.exe -m uvicorn web_app:app --host 127.0.0.1 --port 8010
